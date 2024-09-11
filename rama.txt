@@ -1,7 +1,7 @@
-git config --global user.name "richardominq"
-git config --global user.email "richard@gmail.com"
+git config --global user.name "CesarQ05"
+git config --global user.email "cquijada05@outlook.es"
 
-git clone https://github.com/richardominq/sep.git
+git clone https://github.com/CesarQ05/SE.git
 
 git add richard.txt
 
